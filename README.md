@@ -1,7 +1,7 @@
 ## ✔️ CHECK
 ### 📚 Lecture Material & Environment
 - **공지사항/메시지/강의영상 공유:** [INU LMS](http://cyber.inu.ac.kr/) $\rightarrow$ 개인정보(전화번호 & 이메일 등) `업데이트 필수`
-- **이론/실습 자료 공유:** [Github](https://github.com/thekimk)에서 `강의에 맞춰 선택`
+- **이론/실습 자료 공유:** [Github](https://github.com/thekimk) $\rightarrow$ `강의에 맞춰 선택`
 
 ---
 
