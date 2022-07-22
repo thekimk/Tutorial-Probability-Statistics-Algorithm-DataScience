@@ -47,6 +47,6 @@
 > (3) **[INU LMS](http://cyber.inu.ac.kr/) 내 메시지:** (`느린 실시간`)         
 > (4) **이메일:** thekimk.kr@gmail.com, kk@inu.ac.kr (`느린 실시간`)        
 > (5) **전화:** 032-835-8525 (`긴급 실시간`)        
-> (6) **[Github](https://github.com/thekimk/KK-Insight):** Github 저장소 중 하나인 `크크인싸이트(KK-Insight)`에 관련내용 공유중 또는 토론 가능
+> (6) **[Github KK-Insight](https://github.com/thekimk/KK-Insight):** Github 저장소 중 하나인 `크크인싸이트(KK-Insight)`에 관련내용 공유중 또는 토론 가능
 >
 - **[오프라인]** 수업 전/중/후 바로 `언제든` 가능하지만, 위 채널들로 미리 `일정잡고 오피스(14호관 422호)`에서 진행    
