@@ -11,7 +11,7 @@
 
 ## 📚 Files and Descriptions
 
-| **Files** | **Descriptions** |
+| **Files**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | **Descriptions** |
 |---|---|
 | **Lecture1-1_Basic_DataScience_KK** | **[데이터사이언스 이해]** 데이터사이언스 기반 디지털경제 이해 및 전망 |
 | **Lecture1-1_Basic_FinancialEngineering_DataScience_KK** | **[데이터사이언스 이해]** 금융데이터분석 기반 데이터사이언스 이해 |
