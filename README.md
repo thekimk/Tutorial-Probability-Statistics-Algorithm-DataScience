@@ -11,9 +11,9 @@
 
 ## 📚 Files and Descriptions
 
-| **Files**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | **Descriptions** |
+| **Files** | **Descriptions** |
 |---|---|
-| **Lecture1-1_Basic_DataScience_KK** | **[데이터사이언스 이해]** 데이터사이언스 기반 디지털경제 이해 및 전망 |
+| **Lecture1-1_Basic_DataScience_KK**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | **[데이터사이언스 이해]** 데이터사이언스 기반 디지털경제 이해 및 전망 |
 | **Lecture1-1_Basic_FinancialEngineering_DataScience_KK** | **[데이터사이언스 이해]** 금융데이터분석 기반 데이터사이언스 이해 |
 | **Lecture1-2_Basic_Probability_KK** | **[데이터 의사결정]** 정량적 데이터분석을 위한 확률의 활용 |
 | **Lecture1-3_Basic_StatSamplingDirection_KK** | **[데이터 의사결정]** 스몰데이터 vs 빅데이터 에서의 통계의 활용 |
