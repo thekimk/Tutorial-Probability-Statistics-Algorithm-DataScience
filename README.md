@@ -21,6 +21,6 @@
 | **Lecture1-4_Baslc_Algorithm_KK** | **[데이터 의사결정]** 정량적 데이터분석을 위한 확률통계의 알고리즘으로의 진화 |
 | **Lecture1-5_Basic_Visualization_KK** | **[데이터 의사결정]** 정량적 데이터분석을 위한 데이터시각화 활용 |
 | **Lecture1-6_Basic_Programming_KK** | **[데이터 의사결정]** 디지털사회 대비 데이터분석을 위한 프로그래밍 도구 |
-| **Practice0_Installation_ColabPythonJupyter_KK.pdf**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | **[설치준비]** Colab & Anaconda(Python) 설치 |
+| **Practice0_Installation_ColabPythonJupyter_KK.pdf**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | **[설치준비]** Colab & Anaconda(Python) 설치 |
 
 ---
